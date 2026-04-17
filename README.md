@@ -41,3 +41,7 @@ Energy monitoring mobile application built using Flutter.
 ---
 
 ## Contact
+
+- GitHub: https://github.com/laraib052  
+- Email: laraibahmad052@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/laraib-ahmad-19323b309/
