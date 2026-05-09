@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Laraib 👋
+# Hi, I'm Laraib 
 ### Software Engineering Student · Flutter Developer · AI/ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI+%26+ML+Enthusiast;Full-Stack+Mobile+Developer;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
